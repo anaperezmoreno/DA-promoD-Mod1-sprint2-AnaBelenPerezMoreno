@@ -1,7 +1,4 @@
-# DA-promoD-Mod1-sprint2-AnaBelenPerezMoreno
 
-
-Segunda evaluación bootcamp Data Analytics
 
     Ejercicios realizados por Ana Belén Pérez Moreno (23/03/2023)
 
